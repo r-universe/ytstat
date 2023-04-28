@@ -13,11 +13,6 @@
 	url = https://github.com/cran/mtlgmm
 	shallow = true
 	registered = true
-[submodule "npcs"]
-	path = npcs
-	url = https://github.com/cran/npcs
-	shallow = true
-	registered = true
 [submodule "pemultinom"]
 	path = pemultinom
 	url = https://github.com/cran/pemultinom
