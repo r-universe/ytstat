@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "glmtrans"]
 	path = glmtrans
 	url = https://github.com/cran/glmtrans
-	shallow = true
-	registered = true
 [submodule "mtlgmm"]
 	path = mtlgmm
 	url = https://github.com/cran/mtlgmm
-	shallow = true
-	registered = true
 [submodule "pemultinom"]
 	path = pemultinom
 	url = https://github.com/cran/pemultinom
-	shallow = true
-	registered = true
 [submodule "RaSEn"]
 	path = RaSEn
 	url = https://github.com/cran/RaSEn
-	shallow = true
-	registered = true
