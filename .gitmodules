@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RaSEn"]
+	path = RaSEn
+	url = https://github.com/cran/RaSEn
 [submodule "glmtrans"]
 	path = glmtrans
 	url = https://github.com/cran/glmtrans
@@ -11,6 +14,3 @@
 [submodule "pemultinom"]
 	path = pemultinom
 	url = https://github.com/cran/pemultinom
-[submodule "RaSEn"]
-	path = RaSEn
-	url = https://github.com/cran/RaSEn
